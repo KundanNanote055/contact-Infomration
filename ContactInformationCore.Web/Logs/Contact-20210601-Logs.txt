@@ -1,0 +1,8 @@
+2021-06-01T23:06:12.3333099+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-06-01T23:06:12.3381873+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2021-06-01T23:06:12.3384304+05:30  [INF] Content root path: "D:\DotnetApp\Contact-Application-In-ASP.Net-Core-master\Contact-Application-In-ASP.Net-Core-master\ContactInformationCore.Web" (b5d60022)
+2021-06-01T23:06:12.4561857+05:30 80000002-0005-ff00-b63f-84710c7967bb [INF] Log message in the HttpGet Login Controller => Index() method (d10fee66)
+2021-06-01T23:06:29.1257539+05:30 80000009-0000-ff00-b63f-84710c7967bb [INF] Log message in the HttpPost Login Controller => Index() method (714a9327)
+2021-06-01T23:07:26.2311993+05:30 8000000b-0000-ff00-b63f-84710c7967bb [INF] Log message in the HttpPost Login Controller => Index() method (714a9327)
+2021-06-01T23:07:26.2323107+05:30 8000000b-0000-ff00-b63f-84710c7967bb [INF] Password Is Validated ! User Redirected to Admin Page (ead349cb)
+2021-06-01T23:07:26.3144897+05:30 8000000d-0000-ff00-b63f-84710c7967bb [INF] Log message in the HttpGet Contact Controller => Index() method (6e3db3c4)
